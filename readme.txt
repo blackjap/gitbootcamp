@@ -1,2 +1,1 @@
 こんにちは、SourceTree
-さようなら SourceTree
